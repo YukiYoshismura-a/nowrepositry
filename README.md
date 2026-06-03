@@ -1,0 +1,2 @@
+# nowrepositry
+初めてのリポジトリ
